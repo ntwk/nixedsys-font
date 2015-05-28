@@ -2,7 +2,9 @@
 
 ## Overview
 
-Nixedsys is a 8x15 pixel mostly-sans-serif monospaced bitmap font.  It is intended as bitmap alternative to the proportional Fixedsys Excelsior.
+Nixedsys is a 8x15 pixel mostly-sans-serif monospaced bitmap font.  It
+exists as a bitmap alternative to the TrueType font Fixedsys
+Excelsior.
 
 ## Installation
 
@@ -12,4 +14,13 @@ Nixedsys is a 8x15 pixel mostly-sans-serif monospaced bitmap font.  It is intend
 
 Nixedsys was inspired by [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/).
 
-Fixedsys Excelsior's notables difference are its much larger character set and that it is available only as a proportional font in TrueType format.  Additionally, it's is designed with a larger character height is 16 pixels to accomodate various non-latin characters.
+Fixedsys Excelsior offers a much larger character set albeit in
+TrueType format.  It is a pseudo-bitmap font, with its characters
+drawn as scalable vectors.  As of version 3.00 Fixedsys Excelsior has
+an increased character cell height of 16 pixels to more easily
+accommodate various non-Latin characters.
+
+By contrast, Nixedsys exists as a true bitmap font and retains the
+original character cell height of 15 pixels.  Its original intent is
+to support Western European languages, though additional scripts may
+eventually be added in the future.
