@@ -1,5 +1,7 @@
 # Nixedsys Font
 
+![screenshot](screenshot.png)
+
 ## Overview
 
 Nixedsys is a 8x15 pixel mostly-sans-serif monospaced bitmap font.  It
