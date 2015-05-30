@@ -23,6 +23,6 @@ an increased character cell height of 16 pixels to more easily
 accommodate various non-Latin characters.
 
 By contrast, Nixedsys exists as a true bitmap font and retains the
-original character cell height of 15 pixels.  Its original intent is
-to support Western European languages, though additional scripts may
-eventually be added in the future.
+original character cell height of 15 pixels.  The original intent is
+to support Western European languages, though non-Latin scripts may be
+added in the future.
