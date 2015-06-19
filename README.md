@@ -10,7 +10,9 @@ Excelsior.
 
 ## Installation
 
-    cp nixedsys-normal.bdf ~/.fonts
+1. Copy or symlink the font to your ~/.fonts directory:
+   `cp nixedsys-normal.bdf ~/.fonts`
+2. Run `fc-cache -fv` to update your font cache.
 
 ## See Also
 
