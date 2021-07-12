@@ -16,7 +16,7 @@ Excelsior.
 
 ## See Also
 
-Nixedsys was inspired by [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/).
+Nixedsys was inspired by [Fixedsys Excelsior](https://web.archive.org/web/20190207073141/http://www.fixedsysexcelsior.com/).
 
 Fixedsys Excelsior offers a much larger character set albeit in
 TrueType format.  It is a pseudo-bitmap font, with its characters
